@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.exe.config
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.exe
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.pdb
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.Form1.resources
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.exe
+C:\Users\ASUS\Desktop\VIKO\2 Kursas\S2\Informacijos Saugumas\InfoSaugumasPD2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.pdb
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.exe.config
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.exe
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.pdb
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.AssemblyReference.cache
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.Form1.resources
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.Properties.Resources.resources
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.GenerateResource.cache
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.CoreCompileInputs.cache
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.exe
+C:\Users\Nedas\Downloads\Informacijos-Saugumas-main\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.pdb
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.exe.config
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.exe
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\bin\Debug\InfoSaugumasPD2.pdb
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.AssemblyReference.cache
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.Form1.resources
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.Properties.Resources.resources
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.GenerateResource.cache
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.csproj.CoreCompileInputs.cache
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.exe
+C:\Users\Nedas\OneDrive\Stalinis kompiuteris\Informacijos saugumas\Informacijos-Saugumas-praktinis-2\InfoSaugumasPD2\obj\Debug\InfoSaugumasPD2.pdb
